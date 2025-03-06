@@ -108,7 +108,15 @@ For any questions or discussions, feel free to reach out:
 - **Portfolio**: [Portfolio](https://kritagyakumraportfolio.netlify.app/)
 
 ---
+<div align="center">
 
 🚀 **Created with love ❤️ by Kritagya. Happy Learning & Secure Deployments!**
-<br>
-🚀 **Show some ❤️ by starring at some of the repositories!**
+
+</div>
+
+<div align="center">
+
+🚀  **Show some ❤️ by starring at some of the repositories!**
+
+</div>
+
