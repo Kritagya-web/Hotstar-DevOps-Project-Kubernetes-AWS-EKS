@@ -1,13 +1,10 @@
-# DevSecOps With Docker Scout Hotstar Clone
-
-#BLOG
-https://mrcloudbook.com/devsecops-ci-cd-deploying-a-secure-hotstar-clone-even-if-youre-not-a-pro/
-
 # DevSecOps CI/CD: Deploying a Secure Hotstar Clone
 
 ## Overview
 
 This project demonstrates the implementation of **DevSecOps CI/CD pipeline** for securely deploying a **Hotstar Clone** using **AWS, Docker, Kubernetes, Jenkins, Terraform, and SonarQube**. It follows security best practices to automate infrastructure provisioning, vulnerability scanning, and container orchestration.
+## Blog for Step by Step Process
+https://mrcloudbook.com/devsecops-ci-cd-deploying-a-secure-hotstar-clone-even-if-youre-not-a-pro/
 
 ## Features
 
@@ -92,7 +89,7 @@ Terminate the **EC2 instance** and delete the **IAM Role**.
 
 ## Project Repository
 
-🔗 [GitHub Repository](https://github.com/Aj7Ay/Hotstar-Clone.git)
+🔗 [GitHub Repository](https://github.com/Kritagya-web/Hotstar-DevOps-Project-Kubernetes-AWS-EKS)
 
 ---
 
@@ -106,10 +103,11 @@ This project was inspired and greatly enhanced by the **detailed documentation p
 
 For any questions or discussions, feel free to reach out:
 
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Your Website]
+- **GitHub**: [Kritagya-web](https://github.com/Kritagya-web/)
+- **LinkedIn**: [Kritagya Kumra](https://www.linkedin.com/in/kritagya-kumra/)
+- **Portfolio**: [Portfolio](https://kritagyakumraportfolio.netlify.app/)
 
 ---
 
-🚀 **Happy Learning & Secure Deployments!**
+🚀 **Created with love ❤️ by Kritagya. Happy Learning & Secure Deployments!**
+🚀 **Show some ❤️ by starring at some of the repositories!**
